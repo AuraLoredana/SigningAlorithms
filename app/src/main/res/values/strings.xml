@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SigningAlorithms</string>
+    <string name="upload">Upload</string>
+    <string name="uploading">Uploading...</string>
+    <string name="write_logs">Write Logs</string>
+    <string name="verify_signature">Verify Signature</string>
+    <string name="signature">Signature</string>
+    <string name="write_encrypted_logs">Write encrypted logs</string>
+</resources>
